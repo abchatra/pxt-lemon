@@ -16,3 +16,4 @@ c 4 d 5 4 5 d 5 5 5 5 5 5 5 5 4
 . . . . c c b 4 4 4 b b 4 5 4 4 
 . . . . . . c c c c c c b b 4 . 
 `, SpriteKind.Player)
+mySprite.setPosition(0, 0)
